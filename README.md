@@ -9,9 +9,9 @@ This is a repository for Excel based Decision Modelling that focuses on Linear /
 - A2: Design Transportation routes to minimize cost; pricing sensitivity analysis to understand investment opportunity
 - A3: Plan workforce to minimize the gap in supply of FTE and demand of services of garbage collection; hospital staff planning to maximize weekly intake within budgetary constraints
 - A4: Select new power plant sites to satisfy budgetary constraints and energy demand
-- A5: Public-Private Partnership vendor selecting to support city road maintence requirements; Program funding voting to meet community and congressional requirements
+- A5: Public-Private Partnership vendor selecting to support city road maintenance requirements; Program funding voting to meet community and congressional requirements
 - A6: Analyze various carbon trading policies to maximize CO2 reduction
-- A7: Allocate advertising budget, police car asset, and teadhing staff to maximize profit, services, and student performance respectively
+- A7: Allocate advertising budget, police car asset, and teaching staff to maximize profit, services, and student performance respectively
 - A8: Find the best amount of product to manufacture in order to maximize operation profit within resource constraints 
 
 ### Monte Carlo Simulation
