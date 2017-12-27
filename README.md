@@ -19,4 +19,4 @@ This is a repository for Excel based Decision Modelling that focuses on Linear /
 - A10: Understand best and worst case operation scenarios to support workforce and budget planning
 - A11: Compare different purchasing options to support Homeless Shelter operation to save cost for the city
 
-**Note:** the simulation is based on a free plug-in called Yasai. It can be found here: http://www.yasai.rutgers.edu/
+**Note:** the simulation is based on a free Excel plug-in called Yasai. It can be found here: http://www.yasai.rutgers.edu/
