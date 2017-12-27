@@ -1,6 +1,6 @@
 # Overview
 
-This is a repository for Excel based Decision Modelling that focuses on Linear / Non-Linear Optimization and Simulation. The models helped to solve operational, budgetary, investment, and political decisions.
+This is a repository for Excel based Decision Modelling that focuses on Linear / Non-Linear Optimization and Simulation. The models are designed to support a number of hypothetical - but practical and realistic - operational, budgetary, investment, and political decisions.
 
 # High Level Description
 
